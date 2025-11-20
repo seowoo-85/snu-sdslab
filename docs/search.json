@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Professor\n\nEmail: si_lee@snu.ac.kr\nOffice: Room 319, Building 10, College of Education, Seoul National University\nResearch Interests:\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education\n\nEducation:\n\nPh.D. in Geography, The Ohio State University\n\nM.A. in Geography Education, Seoul National University\n\nB.A. in Geography Education, Seoul National University"
+  },
+  {
+    "objectID": "team.html#professor",
+    "href": "team.html#professor",
+    "title": "Team",
+    "section": "",
+    "text": "Professor\n\nEmail: si_lee@snu.ac.kr\nOffice: Room 319, Building 10, College of Education, Seoul National University\nResearch Interests:\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education\n\nEducation:\n\nPh.D. in Geography, The Ohio State University\n\nM.A. in Geography Education, Seoul National University\n\nB.A. in Geography Education, Seoul National University"
+  },
+  {
+    "objectID": "team.html#graduate-students",
+    "href": "team.html#graduate-students",
+    "title": "Team",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\nHyekyeong Nam\nM.A. Student\n\nEmail: nhk675@snu.ac.kr\nResearch Interests: Spatial Data Science\nPersonal Website\n\n\n\n\n\n\n\n\nWoohyung Kim\nM.A. Student\n\nEmail: whk3423@snu.ac.kr\nResearch Interests: Spatial Data Science, GeoAI\nPersonal Website\n\n\n\n\n\n\n\n\nMinseop Jeong\nM.A. Student\n\nEmail: jms7061@snu.ac.kr\nResearch Interests: Population Geography\nPersonal Website\n\n\n\n\n\n\n\n\nSeowoo Park\nM.A. Student\n\nEmail: seowoo0805@snu.ac.kr\nResearch Interests: Spatial Data Science, Spatial Statistics\nPersonal Website"
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\nRecent Graduates\n\nHyemin Jeon (M.A., 2025)\nSechang Kim (M.A., 2023): Ph.D. Student at University of Washington"
+  },
+  {
+    "objectID": "team.html#join-our-lab",
+    "href": "team.html#join-our-lab",
+    "title": "Team",
+    "section": "Join Our Lab",
+    "text": "Join Our Lab\nIf you are interested in joining our lab, please feel free to contact us!\nContact: si_lee@snu.ac.kr"
+  },
+  {
+    "objectID": "news/posts/2025-06-27-website-open.html",
+    "href": "news/posts/2025-06-27-website-open.html",
+    "title": "GIS Lab Website Opened!",
+    "section": "",
+    "text": "Hello! The SNU GIS Lab website has been newly launched.\nThe website was built with Quarto by Woohyung Kim, a master’s student in the lab."
+  },
+  {
+    "objectID": "news/posts/2025-06-27-website-open.html#a-new-beginning",
+    "href": "news/posts/2025-06-27-website-open.html#a-new-beginning",
+    "title": "GIS Lab Website Opened!",
+    "section": "",
+    "text": "Hello! The SNU GIS Lab website has been newly launched.\nThe website was built with Quarto by Woohyung Kim, a master’s student in the lab."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "News",
+    "section": "",
+    "text": "Welcome To  Spatial Data Science Lab\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews & Updates\n\n\nLab News & Latest Updates\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News & Updates",
+    "section": "",
+    "text": "Check out the latest news and major updates from our lab!"
+  },
+  {
+    "objectID": "news/index.html#latest-news-posts",
+    "href": "news/index.html#latest-news-posts",
+    "title": "News & Updates",
+    "section": "📰 Latest News Posts",
+    "text": "📰 Latest News Posts"
+  },
+  {
+    "objectID": "news/posts/2025-06-28-korean-geography-conference.html",
+    "href": "news/posts/2025-06-28-korean-geography-conference.html",
+    "title": "The 2025 Korean Geography Conference",
+    "section": "",
+    "text": "At the 2025 Korean Geography Conference held on June 27–28, our lab’s master’s degree candidate, Hyemin, presented her thesis titled “Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering.” Congratulations to her, and we wish her all the best after graduation!"
+  }
+]

@@ -48,7 +48,7 @@ body {
 /* 가운데 흰 글씨 */
 .banner .centered-text {
   position: absolute;
-  top: 90%; left: 50%;
+  top: 70%; left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
   font-size: 4rem;

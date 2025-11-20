@@ -3,7 +3,7 @@
     "path": "C:/lab_web/sdslab/snu-sdslab/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "985289887",
+    "hash": "1883279860",
     "contents": "",
     "dirty": false,
     "created": 1763633970048.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "2,20",
+        "cursorPosition": "18,6",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763644557,
+    "lastKnownWriteTime": 1763647738,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763644557356,
+    "last_content_update": 1763647738447,
     "read_only": false,
     "read_only_alternatives": []
 }

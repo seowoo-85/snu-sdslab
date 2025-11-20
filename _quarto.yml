@@ -10,7 +10,7 @@ website:
   favicon: images/seoul.png
   
   navbar:
-    background: "#556B2F"
+    background: "#263015"
     foreground: "#ffffff"
     title: "Spatial Data Science Lab"
     logo: images/logo2.png

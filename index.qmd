@@ -1,11 +1,23 @@
 ---
-title: "snu-sdslab"
+title: ""
+title-block: false
+toc: false
+listing:
+  contents: news/**
+  sort: "date desc"
+  type: default
+  max-items: 10
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+::: {.column-screen}
+```{=html}
+<div class="banner">
+  <div class="slides">
+    <img src="./images/photo_251119.jpg" alt="단체샷20251119">
+  </div>
+  <div class="centered-text">Welcome To <br> Spatial Data Science Lab</div>
+</div>
 ```
+:::
+
+# News

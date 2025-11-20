@@ -3,7 +3,7 @@ title: ""
 title-block-banner: false
 toc: false
 listing:
-  contents: news/*.qmd
+  contents: news/posts/*.qmd
   sort: "date desc"
   type: default
   max-items: 10

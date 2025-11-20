@@ -5,14 +5,14 @@ project:
     - images/
 
 website:
-  title: ""
+  title: "SDSLab"
   description: "SDS Lab of the Department of Geography Education, Seoul National University"
   favicon: images/seoul.png
   
   navbar:
     background: "#2A534D"
     foreground: "#ffffff"
-    title: ""
+    title: "Spatial Data Science Lab"
     logo: images/logo2.png
     search: true
     right:

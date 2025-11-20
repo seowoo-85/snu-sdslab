@@ -17,15 +17,15 @@
 .banner {
   position: relative;
   width: 100%;
-  height: 1000px;  /* 화면 높이의 60% 정도 추천 */
+  height: 1000px;
   overflow: hidden;
 }
 
 .banner img {
   width: 100%;
   height: 100%;
-  object-fit: cover;   /* 자연스럽게 꽉 차게 */
-  object-position: center bottom;  /* 잘리는 경우 위쪽을 보이게 */
+  object-fit: cover;
+  object-position: center bottom; 
   display: block;
 }
 

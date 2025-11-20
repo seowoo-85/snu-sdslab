@@ -8,13 +8,12 @@ website:
   title: ""
   description: "SDS Lab of the Department of Geography Education, Seoul National University"
   favicon: images/seoul.png
-  site-url: "https://snu-gislab.github.io/homepage/"
   
   navbar:
-    background: "#ffffff"
-    foreground: "#2A534D"
+    background: "#2A534D"
+    foreground: "#ffffff"
     title: ""
-    logo: images/sds_logo.png
+    logo: images/logo2.png
     search: true
     right:
       - text: "Members"
@@ -30,7 +29,7 @@ website:
     left: "© 2025 SDS Lab, Department of Geography Education, Seoul National University"
     right: 
       - icon: github
-        href: https://github.com/snu-gislab
+        href: 
       - icon: envelope
         href: mailto:si_lee@snu.ac.kr
 

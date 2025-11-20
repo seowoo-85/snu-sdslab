@@ -14,6 +14,22 @@
 /*banner style start*/
 
 /* 배너 컨테이너 */
+body {
+    padding-top: 0 !important; /* 상단 패딩 제거 */
+}
+
+/* 배너를 포함하는 .column-screen 컨테이너의 상단 마진/패딩 제거 */
+.column-screen {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* 또는 .banner 자체의 상단 마진 제거 */
+.banner {
+    margin-top: 0 !important;
+    /* height: 1000px; 등 기존 스타일 유지 */
+}
+
 .banner {
   position: relative;
   width: 100%;
@@ -25,7 +41,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center bottom; 
+  object-position: 50% 100% !important; /* 수직 위치를 맨 아래(100%)로 강제 고정 */
   display: block;
 }
 

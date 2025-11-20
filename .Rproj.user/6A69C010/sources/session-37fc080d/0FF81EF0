@@ -3,7 +3,7 @@
     "path": "C:/lab_web/sdslab/snu-sdslab/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "0",
+    "hash": "1806558570",
     "contents": "",
     "dirty": false,
     "created": 1763634900154.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,0",
-        "scrollLine": "6"
+        "cursorPosition": "30,1",
+        "scrollLine": "11"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763645174,
+    "lastKnownWriteTime": 1763646938,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763645174893,
+    "last_content_update": 1763646938265,
     "read_only": false,
     "read_only_alternatives": []
 }
